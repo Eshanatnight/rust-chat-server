@@ -1,6 +1,7 @@
 use tokio::{
     io::{AsyncBufReadExt, AsyncWriteExt, BufReader},
-    net::TcpListener, sync::broadcast,
+    net::TcpListener,
+    sync::broadcast,
 };
 
 #[tokio::main]
