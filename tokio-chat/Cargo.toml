@@ -1,0 +1,11 @@
+[package]
+name = "tokio-chat"
+version = "0.1.0"
+edition = "2021"
+authors = [ "Eshan Chatterjee <eshan20012@gmail.com>", "Kelsey" ]
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = { version = "1.27.0", features = ["full"] }
