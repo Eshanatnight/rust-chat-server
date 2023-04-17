@@ -1,3 +1,3 @@
 # rust-chat-server
 
-playing around in rust with tokio 
+playing around in rust with tokio and rocket
